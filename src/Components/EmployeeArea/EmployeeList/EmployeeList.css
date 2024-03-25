@@ -1,0 +1,10 @@
+.EmployeeList > table{
+	margin: auto;
+}
+
+.EmployeeList table,
+.EmployeeList th,
+.EmployeeList td {
+    border: 1px solid;
+    border-collapse: collapse;
+}
